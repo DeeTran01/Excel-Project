@@ -51,7 +51,7 @@ Disclaimer: I was using Excel Online version so I was limited to certain feature
 <img width="644" alt="Screenshot 2024-12-13 at 00 29 15" src="https://github.com/user-attachments/assets/a28f2e9c-fe43-45c0-b72e-bd69e045f3e5" />
 
 3. **💸 Profit Margins Analysis:** A pie chart representing the proportion of profit margins for various cookie types.
-<img width="644" alt="Screenshot 2024-12-13 at 00 29 15" src="https://github.com/user-attachments/assets/596f35aa-5571-4e96-8cc7-27bf513659d6" />
+<img width="526" alt="Screenshot 2024-12-13 at 00 38 29" src="https://github.com/user-attachments/assets/18221444-ff5f-49d5-a040-ae3aeea7caac" />
 
 These visualizations provide a clear overview of sales trends, product performance, and profit distribution. 📉
 
