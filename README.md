@@ -43,7 +43,7 @@ The goal of this project was to analyze **cookie sales data** in order to uncove
 To help interpret the data, I created the following three visuals in Excel:
 
 1. **📅 Sales Trend Over Time:** A line chart showing the sales trends across different periods (e.g., months, quarters).
-   ![Sales Trend](<img width="571" alt="Screenshot 2024-12-13 at 00 24 00" src="https://github.com/user-attachments/assets/5475b1c7-de49-453e-ac1a-3382645bc5f0" />)
+   ![Sales Trend]<img width="571" alt="Screenshot 2024-12-13 at 00 24 00" src="https://github.com/user-attachments/assets/640499dc-a4aa-43f5-b036-12338baee3f8" />
    
 3. **🍪 Sales Distribution by Cookie Type:** A bar chart that illustrates the sales distribution by different cookie types.
    ![Cookie Sales Distribution](path_to_your_image/cookie_sales_distribution.png) <!-- Replace with your image path -->
