@@ -46,7 +46,8 @@ To help interpret the data, I created the following three visuals in Excel:
    ![Sales Trend]<img width="571" alt="Screenshot 2024-12-13 at 00 24 00" src="https://github.com/user-attachments/assets/640499dc-a4aa-43f5-b036-12338baee3f8" />
    
 3. **🍪 Sales Distribution by Cookie Type:** A bar chart that illustrates the sales distribution by different cookie types.
-   ![Cookie Sales Distribution](path_to_your_image/cookie_sales_distribution.png) <!-- Replace with your image path -->
+   ![Cookie Sales Distribution]<img width="644" alt="Screenshot 2024-12-13 at 00 29 15" src="https://github.com/user-attachments/assets/a28f2e9c-fe43-45c0-b72e-bd69e045f3e5" />
+
 
 4. **💸 Profit Margins Analysis:** A pie chart representing the proportion of profit margins for various cookie types.
    ![Profit Margins](path_to_your_image/profit_margins.png) <!-- Replace with your image path -->
