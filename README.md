@@ -16,8 +16,6 @@ This project demonstrates the process of cleaning, analyzing, and visualizing a 
 
 The goal of this project was to analyze **cookie sales data** in order to uncover insights and trends. The dataset includes various details about sales transactions, including cookie types, quantities sold, and sales figures. Using Excel, the data was cleaned, filtered, and analyzed to create meaningful reports and visual representations. 💼
 
-![Project Screenshot](path_to_your_image/project_screenshot.png) <!-- Optional: Add a screenshot of your Excel analysis here -->
-
 ## 🧹 Data Cleaning and Preparation
 
 - **Cleaning:** The dataset was initially raw and required cleaning to ensure consistency and accuracy. This involved:
@@ -45,12 +43,12 @@ The goal of this project was to analyze **cookie sales data** in order to uncove
 To help interpret the data, I created the following three visuals in Excel:
 
 1. **📅 Sales Trend Over Time:** A line chart showing the sales trends across different periods (e.g., months, quarters).
-   ![Sales Trend](path_to_your_image/sales_trend_chart.png) <!-- Replace with your image path -->
-
-2. **🍪 Sales Distribution by Cookie Type:** A bar chart that illustrates the sales distribution by different cookie types.
+   ![Sales Trend](<img width="571" alt="Screenshot 2024-12-13 at 00 24 00" src="https://github.com/user-attachments/assets/5475b1c7-de49-453e-ac1a-3382645bc5f0" />)
+   
+3. **🍪 Sales Distribution by Cookie Type:** A bar chart that illustrates the sales distribution by different cookie types.
    ![Cookie Sales Distribution](path_to_your_image/cookie_sales_distribution.png) <!-- Replace with your image path -->
 
-3. **💸 Profit Margins Analysis:** A pie chart representing the proportion of profit margins for various cookie types.
+4. **💸 Profit Margins Analysis:** A pie chart representing the proportion of profit margins for various cookie types.
    ![Profit Margins](path_to_your_image/profit_margins.png) <!-- Replace with your image path -->
 
 These visualizations provide a clear overview of sales trends, product performance, and profit distribution. 📉
