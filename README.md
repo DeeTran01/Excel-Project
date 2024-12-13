@@ -42,15 +42,16 @@ The goal of this project was to analyze **cookie sales data** in order to uncove
 
 To help interpret the data, I created the following three visuals in Excel:
 
+Disclaimer: I was using Excel Online version so I was limited to certain feature for example I couldn't format the date to just to show months only "Sept".
+
 1. **📅 Sales Trend Over Time:** A line chart showing the sales trends across different periods (e.g., months, quarters).
 <img width="571" alt="Screenshot 2024-12-13 at 00 24 00" src="https://github.com/user-attachments/assets/640499dc-a4aa-43f5-b036-12338baee3f8" />
    
-3. **🍪 Sales Distribution by Cookie Type:** A bar chart that illustrates the sales distribution by different cookie types.
+2. **🍪 Sales Distribution by Cookie Type:** A bar chart that illustrates the sales distribution by different cookie types.
 <img width="644" alt="Screenshot 2024-12-13 at 00 29 15" src="https://github.com/user-attachments/assets/a28f2e9c-fe43-45c0-b72e-bd69e045f3e5" />
 
-
-4. **💸 Profit Margins Analysis:** A pie chart representing the proportion of profit margins for various cookie types.
-   ![Profit Margins](path_to_your_image/profit_margins.png) <!-- Replace with your image path -->
+3. **💸 Profit Margins Analysis:** A pie chart representing the proportion of profit margins for various cookie types.
+<img width="644" alt="Screenshot 2024-12-13 at 00 29 15" src="https://github.com/user-attachments/assets/596f35aa-5571-4e96-8cc7-27bf513659d6" />
 
 These visualizations provide a clear overview of sales trends, product performance, and profit distribution. 📉
 
